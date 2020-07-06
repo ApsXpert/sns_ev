@@ -12,3 +12,5 @@ node_modules
 logs
 .idea/workspace.xml
 .env
+
+.idea
